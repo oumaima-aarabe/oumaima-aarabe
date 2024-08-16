@@ -80,4 +80,4 @@
 </picture>
 
 
-![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=brightgreen&label=Visitors+count)
+![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=ff69b4&label=Visitors+count)
