@@ -16,49 +16,36 @@
 
 <!-- Technologies Container -->
 
-  <div align="center">
-      <p style="margin: 0;">
-      <img id="bash-icon" src="https://skillicons.dev/icons?i=bash"  title="Bash">
-            <img id="c-icon" src="https://skillicons.dev/icons?i=c"  title="C">
-            <img id="cpp-icon" src="https://skillicons.dev/icons?i=cpp"  title="C++">
-            <img id="js-icon" src="https://skillicons.dev/icons?i=js"  title="JavaScript">
-            <img id="py-icon" src="https://skillicons.dev/icons?i=py"  title="Python">
-      </div>
-  </p>
-    <div align="center">
-        <p style="margin: 0;">
-          <img src="https://skillicons.dev/icons?i=bootstrap">
-            <img id="py-icon" src="https://skillicons.dev/icons?i=tailwind"  title="tailwind">
-            <img id="css-icon" src="https://skillicons.dev/icons?i=css"  title="CSS">
-            <img id="html-icon" src="https://skillicons.dev/icons?i=html"  title="HTML">
-          <img id="react-icon" src="https://skillicons.dev/icons?i=react"  title="React">
-          <img id="django-icon" src="https://skillicons.dev/icons?i=django" title="django">
-          <img src="https://skillicons.dev/icons?i=flask">
-          <img src="https://skillicons.dev/icons?i=nextjs">
-        </p>
-    </div>
-
-<!-- Data management -->
-  <div align="center">
-    <img id="mysql-icon" src="https://skillicons.dev/icons?i=mysql"  title="MySQL">
-    <img id="mongodb-icon" src="https://skillicons.dev/icons?i=mongodb"  title="MongoDB">
-    <img id="postgres-icon" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL">
-    <img id="sqlite-icon" src="https://skillicons.dev/icons?i=sqlite"  title="SQLite">
-    <img id="Redis-icon" src="https://skillicons.dev/icons?i=redis"  title="Redis">
-    <img src="https://skillicons.dev/icons?i=gcp">
-  </div>
-<!-- Tools -->
 <div align="center">
-    <p style="margin: 0;">
-    <img src="https://skillicons.dev/icons?i=docker">
-      <img src="https://skillicons.dev/icons?i=aws">
-      <img src="https://skillicons.dev/icons?i=git">
-      <img src="https://skillicons.dev/icons?i=github">
-      <img src="https://skillicons.dev/icons?i=gitlab">
-      <img src="https://skillicons.dev/icons?i=vscode">
-      <img src="https://skillicons.dev/icons?i=nginx">
-    </p>
+  <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=c" title="C" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=react" title="React" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=flask" title="Flask" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
+  </p>
 </div>
+
 
 </details>
 
