@@ -69,8 +69,18 @@
   <img src="https://profile-counter.glitch.me/oumiiii/count.svg" />
 </p> -->
 
-![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=blue&label=Visitors+count)
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
+
+![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=brightgreen&label=Visitors+count)
 
 
 
