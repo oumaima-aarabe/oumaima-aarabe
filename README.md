@@ -64,12 +64,12 @@
 
 
 ##
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/oumiiii/count.svg" />
-</p>
+</p> -->
 
-![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=blue)
+![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=blue&label=Visitors+count&base=2126)
 
 
 
