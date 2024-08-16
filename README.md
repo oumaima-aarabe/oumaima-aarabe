@@ -10,11 +10,6 @@
 
 
 
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/oumiiii/count.svg" />
-</p>
 
 <details>
   <summary style="font-weight: bold; font-size: 1.75em"><span>🧠 Technologies & Tools	</span><span style="font-size: 0.5em; font-style: italic;"></span></summary>
@@ -67,9 +62,14 @@
 
 </details>
 
+
 ##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/oumiiii/count.svg" />
+</p>
 
-
+![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=blue)
 
 
 
