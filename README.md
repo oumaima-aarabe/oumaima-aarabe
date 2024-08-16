@@ -8,8 +8,6 @@
 </div>
 
 
-## 💻 Tech Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ##
@@ -17,3 +15,68 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/oumiiii/count.svg" />
 </p>
+
+<details>
+  <summary style="font-weight: bold; font-size: 1.75em"><span>🧠 Technologies & Tools	</span><span style="font-size: 0.5em; font-style: italic;"></span></summary>
+
+<!-- Technologies Container -->
+
+  <div align="center">
+      <p style="margin: 0;">
+      <img id="bash-icon" src="https://skillicons.dev/icons?i=bash"  title="Bash">
+            <img id="c-icon" src="https://skillicons.dev/icons?i=c"  title="C">
+            <img id="cpp-icon" src="https://skillicons.dev/icons?i=cpp"  title="C++">
+            <img id="js-icon" src="https://skillicons.dev/icons?i=js"  title="JavaScript">
+            <img id="py-icon" src="https://skillicons.dev/icons?i=py"  title="Python">
+      </div>
+  </p>
+    <div align="center">
+        <p style="margin: 0;">
+          <img src="https://skillicons.dev/icons?i=bootstrap">
+            <img id="py-icon" src="https://skillicons.dev/icons?i=tailwind"  title="tailwind">
+            <img id="css-icon" src="https://skillicons.dev/icons?i=css"  title="CSS">
+            <img id="html-icon" src="https://skillicons.dev/icons?i=html"  title="HTML">
+          <img id="react-icon" src="https://skillicons.dev/icons?i=react"  title="React">
+          <img id="django-icon" src="https://skillicons.dev/icons?i=django" title="django">
+          <img src="https://skillicons.dev/icons?i=flask">
+          <img src="https://skillicons.dev/icons?i=nextjs">
+        </p>
+    </div>
+
+<!-- Data management -->
+  <div align="center">
+    <img id="mysql-icon" src="https://skillicons.dev/icons?i=mysql"  title="MySQL">
+    <img id="mongodb-icon" src="https://skillicons.dev/icons?i=mongodb"  title="MongoDB">
+    <img id="postgres-icon" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL">
+    <img id="sqlite-icon" src="https://skillicons.dev/icons?i=sqlite"  title="SQLite">
+    <img id="Redis-icon" src="https://skillicons.dev/icons?i=redis"  title="Redis">
+    <img src="https://skillicons.dev/icons?i=gcp">
+  </div>
+<!-- Tools -->
+<div align="center">
+    <p style="margin: 0;">
+    <img src="https://skillicons.dev/icons?i=docker">
+      <img src="https://skillicons.dev/icons?i=aws">
+      <img src="https://skillicons.dev/icons?i=git">
+      <img src="https://skillicons.dev/icons?i=github">
+      <img src="https://skillicons.dev/icons?i=gitlab">
+      <img src="https://skillicons.dev/icons?i=vscode">
+      <img src="https://skillicons.dev/icons?i=nginx">
+    </p>
+</div>
+
+</details>
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
