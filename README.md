@@ -62,8 +62,8 @@
 
 <hr>
 
-
 # 📊 My Stats
+<details>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-aarabe&radius=16&bg_color=20232a&area=true&order=5&theme=dracula" height="auto" width="100%" alt="activity-graph graph"  />
 <br>
@@ -80,7 +80,7 @@
 <hr>
 
 
-
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake-dark.svg">
