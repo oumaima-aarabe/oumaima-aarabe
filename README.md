@@ -57,32 +57,25 @@
   <img src="https://profile-counter.glitch.me/oumiiii/count.svg" />
 </p> -->
 
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake.svg">
-</picture> -->
+
 
 
 <hr>
 
 
 # 📊 My Stats
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-aarabe&radius=16&bg_color=20232a&area=true&order=5&theme=dracula" height="auto" width="100%" alt="activity-graph graph"  />
 <br>
 <p align=center>
   <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oumaima-aarabe&theme=dracula" alt="GitHub Streak" /></a>
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true">    <img  alt="oumaima-aarabe's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oumaima-aarabe?cardType=level&theme=dracula&preferLogin=true" />  </a>
-  </div>
   <br>
-  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima-aarabe&theme=dracula&langs_count=12&layout=compact&hide_border=false&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-aarabe&radius=16&bg_color=20232a&area=true&order=5" height="auto" width="100%" alt="activity-graph graph"  />
 
 
 
@@ -91,3 +84,11 @@
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=ff69b4&label=Visitors+count)[![wakatime](https://wakatime.com/badge/user/018ea5ef-ec13-4c0a-9a94-72ca288c5ee4.svg)](https://wakatime.com/@018ea5ef-ec13-4c0a-9a94-72ca288c5ee4)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake.svg">
+</picture>
