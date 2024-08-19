@@ -67,19 +67,15 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-aarabe&radius=16&bg_color=20232a&area=true&order=5&theme=dracula" height="auto" width="100%" alt="activity-graph graph"  />
 <br>
-<p align=center>
-  <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oumaima-aarabe&theme=dracula" alt="GitHub Streak" /></a>
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true">    <img  alt="oumaima-aarabe's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oumaima-aarabe?cardType=level&theme=dracula&preferLogin=true" />  </a>
-  <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima-aarabe&theme=dracula&langs_count=12&layout=compact&hide_border=false&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-
-
-
+   <p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/oumaima-aarabe?cardType=github&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oumaima-aarabe&theme=dracula" />
 </p>
+  <br>
+     <p align="center">
+      <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima-aarabe&theme=dracula&langs_count=12&layout=compact&hide_border=false&size_weight=0.5&count_weight=0.5" />
+     </p>
+
 
 <hr>
 
