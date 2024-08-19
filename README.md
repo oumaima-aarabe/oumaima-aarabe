@@ -79,7 +79,6 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=ff69b4&label=Visitors+count)[![wakatime](https://wakatime.com/badge/user/018ea5ef-ec13-4c0a-9a94-72ca288c5ee4.svg)](https://wakatime.com/@018ea5ef-ec13-4c0a-9a94-72ca288c5ee4)
 
 
 
@@ -88,3 +87,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oumaima-aarabe/oumaima-aarabe/output/github-contribution-grid-snake.svg">
 </picture>
+
+![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=ff69b4&label=Visitors+count)[![wakatime](https://wakatime.com/badge/user/018ea5ef-ec13-4c0a-9a94-72ca288c5ee4.svg)](https://wakatime.com/@018ea5ef-ec13-4c0a-9a94-72ca288c5ee4)
