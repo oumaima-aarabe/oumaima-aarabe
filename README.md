@@ -13,7 +13,7 @@
 
 <!-- <details> -->
 ## 
-# 🧠 Technologies & Tools
+# :computer: Technologies & Tools
 
 <!-- Technologies Container -->
 
