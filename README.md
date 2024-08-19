@@ -61,9 +61,9 @@
 
 
 <hr>
-
+# 📊 My Stats
 <details>
-    <summary style="font-weight: bold; font-size: 1.75em"><span>📊 My Stat</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Skills)</span></summary>
+<!--     <summary style="font-weight: bold; font-size: 1.75em"><span>📊 My Stat</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Skills)</span></summary> -->
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-aarabe&radius=16&bg_color=20232a&area=true&order=5&theme=dracula" height="auto" width="100%" alt="activity-graph graph"  />
 <br>
