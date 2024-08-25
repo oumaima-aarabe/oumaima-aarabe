@@ -71,7 +71,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-aarabe&radius=16&bg_color=20232a&area=true&order=5&theme=dracula" height="auto" width="100%" alt="activity-graph graph"  />
 <br>
    <p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/oumaima-aarabe?cardType=github&theme=dracula" />
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/oumaima-aarabe?cardType=level&theme=dracula" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oumaima-aarabe&theme=dracula" />
 </p>
   <br>
