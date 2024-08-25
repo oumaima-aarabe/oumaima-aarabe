@@ -94,3 +94,8 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=oumaima-aarabe&color=ff69b4&label=Visitors+count)[![wakatime](https://wakatime.com/badge/user/018ea5ef-ec13-4c0a-9a94-72ca288c5ee4.svg)](https://wakatime.com/@018ea5ef-ec13-4c0a-9a94-72ca288c5ee4)
+<!---<p align="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CE1D95&background=093B3800&multiline=true&width=500&lines=Days%2C+months%2C+years+are+just+for+loops%2C;everything+is+in+conditional+if++statements..+;We+are+instances+that+inherit+stuff+from+parent+classes%2C;having+small+differences+in+properties+and+methos.;And+most+likely+%2C+just+a+part+of+someone's+more+global+program" alt="Typing SVG" /></a>
+</p> -->
+
+  
